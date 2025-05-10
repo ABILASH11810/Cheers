@@ -16,7 +16,7 @@ const messages = [
   "What we do in life echoes in eternity.",
   "It’s only after we’ve lost everything that we’re free to do anything.",
   "We are infinite.",
-  "When you die, you can't see sunsets!"
+  "When you die, you can't see sunsets!",
   "You’ve always had the power, my dear. You just had to learn it for yourself."
 ];
 
